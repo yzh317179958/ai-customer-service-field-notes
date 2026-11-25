@@ -20,6 +20,16 @@ Maintained by [Dingbo AI](https://ai.dingboai.com/). We build and run AI agents 
   BPO means business process outsourcing: paying another company to run a process for you. The types, how it is priced, and what changes when AI does the work.
 - [AI Automation Agency: What It Does and How to Pick One](https://ai.dingboai.com/en/ai-automation-agency.html)  
   An AI automation agency builds and runs AI systems that take over repetitive work for other businesses. The three kinds, what to ask, and warning signs.
+- [What Is an LLM? Large Language Models Explained Plainly](https://ai.dingboai.com/en/what-is-an-llm.html)  
+  LLM stands for large language model: software trained on text to predict the next words. How it works, what it can and cannot do, and how businesses use one.
+- [What Is RAG in AI? Retrieval-Augmented Generation Explained](https://ai.dingboai.com/en/what-is-rag.html)  
+  RAG means retrieval-augmented generation: search your own documents first, then let the model answer from what it found. How it works and where it fails.
+- [What Is RPA? Robotic Process Automation vs AI Agents](https://ai.dingboai.com/en/what-is-rpa.html)  
+  RPA means robotic process automation: software bots that repeat a person's clicks and keystrokes. What it does well, where it breaks, and when to use AI agents.
+- [What is MCP (Model Context Protocol)? A plain guide](https://ai.dingboai.com/en/what-is-mcp-model-context-protocol.html)  
+  What Model Context Protocol (MCP) is, how an AI agent uses MCP servers to read live systems, and where permissions and human approval still belong.
+- [What is prompt engineering? What works in production](https://ai.dingboai.com/en/what-is-prompt-engineering.html)  
+  What prompt engineering does, why feeding raw emails and long rule lists fails, and how fact extraction and shorter prompts fix real support agents.
 
 ## By platform and channel
 
@@ -119,6 +129,8 @@ Maintained by [Dingbo AI](https://ai.dingboai.com/). We build and run AI agents 
   Documents uploaded, dashboard all green, yet the RAG chat cannot find the answer. Five causes we traced in production, and a fixed three-step acceptance check.
 - [Private LLM Deployment: When On-Premise Is Worth It](https://ai.dingboai.com/en/private-llm-deployment.html)  
   Before a private LLM deployment, decide whether you need a private model or private data. Most businesses need the second, which costs far less.
+- [AI guardrails for customer service: rules that hold](https://ai.dingboai.com/en/ai-guardrails-for-customer-service.html)  
+  How production AI guardrails stop false promises, split chat from email, verify order facts in code, and keep refunds under human approval.
 
 ## Checklists
 
@@ -128,4 +140,4 @@ Maintained by [Dingbo AI](https://ai.dingboai.com/). We build and run AI agents 
 
 ## Contact
 
-Questions or a job you want an agent to take over: yzh317179958@163.com, or the form at [ai.dingboai.com](https://ai.dingboai.com/). The notes are © Shenzhen Dingbo Intelligent Technology Co., Ltd. Link to them freely.
+Questions or a job you want an agent to take over: liljegrengustav05@gmail.com, or the form at [ai.dingboai.com](https://ai.dingboai.com/). The notes are © Shenzhen Dingbo Intelligent Technology Co., Ltd. Link to them freely.
