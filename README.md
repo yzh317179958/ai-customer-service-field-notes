@@ -102,6 +102,8 @@ Maintained by [Dingbo AI](https://ai.dingboai.com/). We build and run AI agents 
 
 ## Buying, pricing and getting started
 
+- [AI BPO: replacing per-seat outsourcing with outcome pay](https://ai.dingboai.com/en/ai-bpo-customer-service-operations.html)  
+  How AI BPO differs from per-seat call centres and self-serve chatbots: AI runs routine inbox, chat and ticket work while humans approve money and exceptions.
 - [AI Customer Service Outsourcing: How It Works](https://ai.dingboai.com/en/ai-customer-service-outsourcing.html)  
   AI customer service outsourcing explained: what the provider runs, what your team keeps, where data stays, how a pilot starts, and paying per completed task.
 - [AI Agent Pricing Models: Seat, Usage, Project, Outcome](https://ai.dingboai.com/en/ai-agent-pricing-models.html)  
@@ -119,6 +121,10 @@ Maintained by [Dingbo AI](https://ai.dingboai.com/). We build and run AI agents 
 
 ## Engineering notes
 
+- [Agentic workflows: deterministic graphs with AI inside](https://ai.dingboai.com/en/agentic-workflows-in-production.html)  
+  How to build agentic workflows that survive production: keep routing and permissions in a deterministic code graph, and put bounded AI agents inside nodes.
+- [Context engineering for AI agents: distil facts first](https://ai.dingboai.com/en/context-engineering-for-ai-agents.html)  
+  Why stuffing raw threads and JSON dumps into a larger context window breaks AI agents, and how distilling structured facts cut tokens from 37,604 to 4,722.
 - [How to Build an AI Agent That Survives Real Work](https://ai.dingboai.com/en/how-to-build-an-ai-agent.html)  
   Seven steps to build an AI agent for real work: pick the job, connect read-only tools, prepare facts, write rules once, set approval lines, replay, measure.
 - [AI Agent vs Workflow: How to Choose for Real Work](https://ai.dingboai.com/en/ai-agent-vs-workflow.html)  
